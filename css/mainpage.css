@@ -1,0 +1,28 @@
+#main {
+   width: 60%;
+   float: left;
+   margin-top: 20px;
+   margin-left: 3%;
+}
+
+aside {
+   float: left;
+   width: 30%;
+   margin-left: 2%;
+   margin-top: 20px;
+}
+
+.heading {
+   font-weight: lighter;
+   font-size: 1.4em;
+   font-family: 'Roboto Slab', serif;
+   border-bottom: 2px solid #db6e6e;
+   float: left;
+}
+
+.heading:first-letter {
+   color: #db6e6e;
+}
+
+
+   
